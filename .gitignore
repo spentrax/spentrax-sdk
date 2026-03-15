@@ -33,3 +33,5 @@ coverage/
 
 # Optional: generated docs
 docs/
+
+*.tgz
