@@ -1,7 +1,7 @@
 import { createClient } from "./http";
 import { SpentraxConfig, TrackPayload } from "./types";
 
-const BASE_URL = "http://localhost:3000/api/v1";
+const BASE_URL = "https://spentrax-backend.onrender.com/api/v1";
 
 export class Spentrax {
   private readonly client;
