@@ -1,5 +1,5 @@
 {
-  "name": "@spentrax/sdk",
+  "name": "spentrax-sdk",
   "version": "1.0.0",
   "description": "SDK for Spentrax",
   "main": "dist/index.js",
